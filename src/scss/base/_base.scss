@@ -1,0 +1,19 @@
+
+body {
+    font-family: var(--secondary-font);
+    background-color: var(--background-color);
+}
+
+h1, h2{
+    font-family: var(--primary-font);
+}
+
+.wrapper{
+    width: 100%;
+    max-width: 120rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+    // border: .1rem solid red;
+}
